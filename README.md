@@ -4,3 +4,5 @@
 - 👀 I’m interested in software development! 
 - 🌱 I’m currently learning Java, HTML and CSS:)
 - 💞️ https://jaxxsox.com has all my info :) 
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
