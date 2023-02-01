@@ -1,7 +1,6 @@
-<p> 
-<img src="![ec069d9944bfd3e331f142a6a1375837](https://user-images.githubusercontent.com/114475454/216030065-1cbd3f2b-0169-46d9-ae10-c4b09745ea17.gif)" width="400"  height="200" align="right">
- </p
-<p text-align: right; >
+
+![ec069d9944bfd3e331f142a6a1375837](https://user-images.githubusercontent.com/114475454/216031817-14936c43-85f1-4279-a4c2-3104b9e0d112.gif)
+
  
 - 👋 Hi, I’m Amy! <br>
 - 👀 I’m interested in software developemnt! <br>
