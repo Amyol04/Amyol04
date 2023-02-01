@@ -1,7 +1,7 @@
+![ec069d9944bfd3e331f142a6a1375837 md](https://user-images.githubusercontent.com/114475454/216034622-35d492ee-e746-4733-82bd-34ee7e0fb148.gif)
 
-![ec069d9944bfd3e331f142a6a1375837](https://user-images.githubusercontent.com/114475454/216031817-14936c43-85f1-4279-a4c2-3104b9e0d112.gif)
 
- 
+ <p>
 - 👋 Hi, I’m Amy! <br>
 - 👀 I’m interested in software developemnt! <br>
 - 🌱 I’m currently learning Java, HTML and CSS :D <br>
