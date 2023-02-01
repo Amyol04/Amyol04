@@ -1,6 +1,6 @@
 
-![ec069d9944bfd3e331f142a6a1375837](https://user-images.githubusercontent.com/114475454/216027761-8ba9ba98-cc48-47cf-819e-29f6242e25a8.gif)
-
+<img src="https://openseauserdata.com/files/ec069d9944bfd3e331f142a6a1375837.gif
+" width="400"  height="200" align="right">
 <p text-align: right; >
  
 - 👋 Hi, I’m Amy! <br>
