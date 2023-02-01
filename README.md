@@ -3,6 +3,6 @@
 - 👋 Hi, I’m Amy
 - 👀 I’m interested in software development! 
 - 🌱 I’m currently learning Java, HTML and CSS:)
-- 💞️ https://jaxxsox.com has all my info :) 
+- 💞️ [My Website!](https://www.jaxxsox.com) 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Amyol04.School-work)
