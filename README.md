@@ -17,9 +17,7 @@ Hi, I’m Amy o Leary<br>Im a softare dev student<br>I’m interested in softwar
 [![](https://visitcount.itsvg.in/api?id=amyol04&icon=0&color=5)](https://visitcount.itsvg.in)
  ----
 
-<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/amybear335)
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
