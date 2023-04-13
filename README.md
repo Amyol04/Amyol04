@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Amy o Leary<br>Im a softare dev student <br>studying in kerry college <br>I’m interested in software development!<br>I’m currently learning Java, HTML and CSS. <br><a href="https://www.jaxxsox.com">My Website!
+Hi, I’m Amy o Leary<br>Im a softare dev student<br>I’m interested in software development!<br>I’m currently learning Java, HTML and CSS. <br><a href="https://www.jaxxsox.com">My Website!
 
 
 ## 🌐 Socials:
