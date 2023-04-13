@@ -19,7 +19,6 @@ Hi, I’m Amy o Leary<br>Im a softare dev student<br>I’m interested in softwar
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=k92ua747i2tdq8jvivowjqkig&redirect=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
