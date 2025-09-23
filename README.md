@@ -1,5 +1,5 @@
 #  💕 About Me:
-Hi, I’m Amy o Leary<br>Im a softare dev student<br>I’m interested in AI, CyberSecurity, Coding .. all that nerd stuff <br>I’m currently studying in MTU Cork <br><a href="https://www.jaxxsox.com">My Website!
+Hi, I’m Amy<br>Im a softare dev student<br>I’m interested in AI, CyberSecurity, Coding .. all that nerd stuff <br>I’m currently studying in MTU Cork <br><a href="https://www.jaxxsox.com">My Website!
 
 
 # 🌐 Socials:
@@ -20,6 +20,7 @@ Hi, I’m Amy o Leary<br>Im a softare dev student<br>I’m interested in AI, Cyb
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
